@@ -1,4 +1,4 @@
-module github.com/verb0t/filestore
+module github.com/verb0t/prettyfs
 
 go 1.24.2
 

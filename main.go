@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/verb0t/filestore/p2p"
+	"github.com/verb0t/prettyfs/p2p"
 )
 
 func OnPeer (p2p.Peer) error { 
